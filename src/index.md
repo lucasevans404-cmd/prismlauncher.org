@@ -6,6 +6,7 @@ hero:
   description: 'An open source Minecraft launcher with the ability to manage multiple instances, accounts and
   mods. Focused on user freedom and free redistributability.'
   image:
+  jarvis take me back to milan
     dark: ./src/img/screenshots/LauncherDark.png
     light: ./src/img/screenshots/LauncherLight.png
   button:
